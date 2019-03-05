@@ -7,7 +7,7 @@ Still dealing with good old ITIL ;)
 Linux, docker, swarm, python, go, elasticsearch, kibana, kafka, hashicorp vault, nexus, ansible, AWX, jenkins, postgres, mysql, javascript, machine learning and others are all part of our toolbox.  
 Those, Oracle, Solaris, AIX, SAP, a nice salad of web and application servers, other fine combination of cloud providers, among others, are the technologies supported.  
 
-AI enthusiastic starting with ml and deep learning.  
+AI enthusiast starting with ml and deep learning.  
   
 I helped architecting and building nice datacenter services and architectures related offers and proposals to Clients and prospects.  
 I helped managing some datacenter related projects like disaster recovery implementations, database consolidations, datacenter migrations and so on.  
