@@ -1,4 +1,4 @@
-### This is where I'll describe the things a lot of people allowed me to work in since 1993.    
+### This is where I'll briefly describe the things a lot of people allowed me to work in since 1993.    
 Going backwards...  
 
 I've been helping building software to support SRE's way of doing things and also pretending to be one.  
