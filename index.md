@@ -16,7 +16,7 @@ Some nice people allowed themselves to be led by me, either directly or indirect
 We were doing changes, incidents, problems, projects and go figure... planning all of that!  
 
 Before that, had to learn how to do it doing it, again with a bunch of bright people!  
-We even did mpp with the largest european IBM SP2 ;)  
+We even did mpp with the largest european IBM SP2! At the time, of course. ;)  
 
 In the early days I worked with people COBOLing and MANTISing business software for IBM mainframes. We also did a lot of $$$ debugging!
 Helped managing CICS, VSAM, DB2 and other mainframe stuff.  
