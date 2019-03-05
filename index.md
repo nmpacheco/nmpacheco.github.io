@@ -12,7 +12,7 @@ I helped architecting and building nice datacenter services and architectures re
 I helped managing some datacenter related projects like disaster recovery implementations, database consolidations, datacenter migrations and so on.  
 I joined smart people to build service level indicators, objectives and agreements and decide the most appropriate combination that would match the given requirements.  
   
-Some nice people allowed themselves to be led by me, either directly or indirectly. We were accountable for a bunch of AIX, Solaris, Windows, Linux, HP-UX, ESX, firewalls, load balancers, switches, routers, SAN switches, TSM Servers, Avamar, Datadomain, Symmetrix, VMAX, Clariions, VNX, HDS, HP "stuff", datacenter rooms and a lot more than one (or two) can remember.  
+Some nice people allowed themselves to be led by me, either directly or indirectly. We were accountable for a bunch of AIX, Solaris, Windows, Linux, HP-UX, ESX, firewalls, load balancers, switches, routers, SAN switches, TSM Servers, Avamar boxes, Datadomains, Symmetrix, VMAX, Clariions, VNX, HDS, HP "stuff", datacenter rooms and a lot more than one (or two) can remember.  
 We were doing changes, incidents, problems, projects and go figure... planning all of that!  
 
 Before that, had to learn how to do it doing it, again with a bunch of bright people!  
