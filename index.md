@@ -3,8 +3,9 @@ Going backwards...
 
 I've been helping building software to support SRE's way of doing things and also pretending to be one.  
 Still dealing with good old ITIL ;)  
-Linux, docker, swarm, python, go, elasticsearch, kibana, kafka, hashicorp vault, nexus, ansible, AWX, jenkins, postgres, mysql, javascript, machine learning and others are all part of our toolbox.  
+Linux, docker, swarm, python, go, elasticsearch, kibana, kafka, hashicorp vault, nexus, ansible, AWX, jenkins, git, gitlab, postgres, mysql, javascript, machine learning and others are all part of our toolbox.  
 Those, Oracle, Solaris, AIX, SAP, a nice salad of web and application servers, other fine combination of cloud providers, among others, are the technologies supported.  
+A time and trend dependent combination of these and others mentioned bellow have been a constant presence along the years.
 
 AI enthusiast starting with ml and deep learning.  
   
@@ -15,10 +16,14 @@ I joined smart people to build service level indicators, objectives and agreemen
 Some nice people allowed themselves to be led by me, either directly or indirectly. We were accountable for a bunch of AIX, Solaris, Windows, Linux, HP-UX, ESX, firewalls, load balancers, switches, routers, SAN switches, TSM Servers, Avamar boxes, Datadomains, Symmetrix, VMAX, Clariions, VNX, HDS, HP "stuff", datacenter rooms and a lot more than one (or two) can remember.  
 We were doing changes, incidents, problems, projects and go figure... planning all of that!  
 
-Before that, had to learn how to do it doing it, again with a bunch of bright people!  
-We even did mpp with the largest european IBM SP2! At the time, of course. ;)  
+Before that, had to learn how to do it by doing it, again with a bunch of bright people!  
+We even did mpp with the [largest european IBM SP2](https://www.top500.org/site/47753)! At the time, of course. ;)  
 
 In the early days I worked with people COBOLing and MANTISing business software for IBM mainframes. We also did a lot of $$$ debugging!
 Helped managing CICS, VSAM, DB2 and other mainframe stuff.  
-By that time, the internet, related services and other open technologies landed in large companies, so...
+By that time, the internet, related services and other open technologies landed in large companies, so a lot of projects were born for building client/server apps, datawarehouses/DSS, email/web server systems and so on.  
+
+I probably forgot to mention a lot so expect more... ;)
+
+nP
 
